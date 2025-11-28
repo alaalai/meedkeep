@@ -1,0 +1,7 @@
+{
+  "name": "MedKeep KSA",
+  "description": "منصة ذكية لمتابعة صيانة الأجهزة الطبية في المملكة العربية السعودية، مدعومة بالذكاء الاصطناعي لتحليل الأعطال.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
